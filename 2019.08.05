@@ -1,5 +1,1 @@
-## 题目链接
-https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
-## 解题思路
-约瑟夫环问题，通常思路是采用循环链表求解。本次采用队列求解，每次将不需要退出的人从队首放入队尾，需要退出的人出队。
-本题有递推公式，可参考《剑指Offer》第六章的面试题62。
+
